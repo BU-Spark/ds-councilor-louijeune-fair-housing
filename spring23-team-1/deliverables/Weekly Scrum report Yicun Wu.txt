@@ -1,0 +1,34 @@
+﻿1.
+The project helps to understand if there is discrimination in lending/ banking for individuals seeking home ownership at the neighborhood level by examining who is participating in first-time homeownership programs and who is receiving loans and purchasing homes. The project will aim to examine who is participating in first-time home ownership programs and who is receiving loans and purchasing homes. The team will use several datasets, including Property Assessment data, Census Bureau Tables, Demographics Social Vulnerability Index, Mortgage Lending Dashboards, and the Home Mortgage Disclosure Act, to analyze the current distribution of landlords and housing listed in affordable housing programs and to identify the demographic profile of the census block groups. 
+
+
+2.
+This project is important because it addresses a critical issue of affordable housing and home ownership, which has a significant impact on the lives of many individuals and communities. The availability of affordable housing and access to homeownership can greatly impact people's ability to live comfortably and pursue their goals, and a lack of affordable housing can contribute to poverty, homelessness, and social inequality.
+
+
+3. The ppl who are receiving loans and who are purchasing homes. Look at the Current Owner information and put names into Namsor to get a probabilistic estimate of ethnicity/demographic information. So it is a mixed type of data including personal information and geo-information of housing. Mortgage lending data etc.
+
+
+4. 
+Data Quality: The accuracy and completeness of the data sources used, such as the Property Assessment data and the demographic information, may affect the validity of the results.
+
+
+Ethnicity/Demographic Information: Using Namsor to estimate the ethnicity and demographic information of individuals based on their names is not a 100% match and may introduce biases or inaccuracies in the analysis.
+
+
+Geographical Granularity: The level of geographical granularity may not be fine enough to accurately capture the differences between neighborhoods. For example, neighborhoods within the same zip code may have different housing markets and ownership patterns, but this may not be captured in the analysis.
+
+
+First-Time Homeownership Programs: The data on who is participating in first-time homeownership programs may not be complete or up-to-date, which could impact the analysis.
+Data Privacy: The data used in this project may contain sensitive personal information, and the team will need to take appropriate measures to protect the privacy of individuals and comply with data privacy regulations.
+
+
+5.
+Review project description and determine questions or clarifications needed from the client: One team member can be responsible for reviewing the project description and creating a list of questions or clarifications needed from the client. They can reach out to the client to get answers to these questions.
+Create a work plan: The team can work together to create a detailed work plan that outlines the tasks needed to complete the project and the timeline for each task. This work plan should include a breakdown of tasks into weekly sprints.
+Analysis & Using the Data Sets: Establish home environment: view of housing by neighborhood/more granular level: one team member can be responsible for finding and accessing the Property Assessment 2022 data and the information on current owners. Another team member can be responsible for using Namsor to get a probabilistic estimate of ethnicity/demographic information.
+Establish who is participating in first-time homeownership programs: one team member can be responsible for accessing the Census Bureau Tables and the Demographics Social Vulnerability Index & Census Block Groups data. Another team member can be responsible for accessing the Mortgage Lending Dashboards and the Home Mortgage Disclosure Act data.
+Part 2 Extension: Data Sets & Sources: Research additional data sets: one team member can be responsible for researching additional data sets and sources, such as the Redlining data and the Eviction Diversion Initiative Dashboard.
+Create a proposal for the extension: one team member can be responsible for creating a proposal for the extension project that the client will approve, including the extension pitch and rationale, the questions to be answered for analysis, the datasets & sources to be used, and a pitch to the client.
+Analysis: The team can work together to analyze the datasets and create visualizations.
+Final Deliverable: One team member can be responsible for creating a report with key visualizations and answers to the client's questions. Another team member can be responsible for creating a list of owner-occupied and potential affordable housing applicants for the client to use in creating a program or project to reach out to.
