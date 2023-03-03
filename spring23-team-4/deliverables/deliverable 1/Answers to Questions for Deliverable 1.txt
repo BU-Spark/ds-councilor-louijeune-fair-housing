@@ -1,0 +1,7 @@
+﻿Questions and Answers So Far: Team 4
+
+
+1. Establish who is participating in first time home ownership programs.
+   1. Answer (By Deliverable 1): We don’t have a clear answer to this question, but we have been doing preliminary analysis on the HDMA dataset to determine who is likely to be a participant in this program. So far our hypothesis is that demographics that have a lower average income and a higher loan rejection rate will be more likely to be a participant, as well as single family buyers (although after talking to the client that should be expanded), so that’s where we are starting our analysis.
+2. By county, how many loans were taken?
+   1. Answer (By Deliverable 1): So far after plotting the numbers from the HDMA dataset, we see that the county with the most loans is Norfolk with 40,175 loans, followed by Plymouth with 33,453 and Suffolk with 27,140.
