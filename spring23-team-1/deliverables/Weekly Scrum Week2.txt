@@ -1,0 +1,21 @@
+CS 506: Team1
+Weekly Scrum Report:  Week2
+
+Weekly summary:
+	This week, we held the first kick off meeting. All team members have completed the When2meet time sheet. We schedule a meeting with the PM next week for the client meeting to make sure every group member will fit the meeting time. 
+
+Deliverable Key question
+1.Any additional challenges you have encountered?
+We still need to examine the data and decide how to preprocess the data, since the dataset (HMDA Dataset) is a lot of natural language data so we might need to do simple one-hot or PCA to eliminate some degree of dimensions if it is necessary. Need further discussion with team leader and PR for the data processing. 
+
+2. What were the expected next steps, and did you follow them or did the scope change?
+Once we figure out the data and the milestone, we can start the project and try things out. 
+
+3. What are you planning to do to complete your project?
+After attending the meeting hosted by our PM(in the near future), we will have a better understanding of the Councilor Louijuene’s requests by prioritizing the tasks. In the meeting, we will discuss the following questions including: what socially vulnerable groups in the Boston neighborhoods should we priortize when collecting data(eg. racial background, income, people with disabilities, age, etc ). 
+
+Next week plan: 
+Achieve Check point A: 
+	Collect and pre-process a preliminary batch of data
+Perform a preliminary analysis of the data
+Submit deliverable 1
