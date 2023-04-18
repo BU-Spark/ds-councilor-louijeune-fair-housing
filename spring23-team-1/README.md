@@ -11,9 +11,14 @@ loans and purchasing homes.
 
 ## Project description
 -------------------------------------------------------------------------------
-Our team identify the demographic profile of the census block group by analyzing
-the current distribution of landlords and housing listed in affordable housing
-programs by county and mortgage lending by country.
+Our project aims to find potential discrimination in lending and banking
+practices at a neighborhood level by analyzing participation rates in first-time
+homeownership programs and identifying who is receiving loans and purchasing
+homes. By examining demographic data, including race, gender, and age, from loan
+data and housing property datasets, we can generate visualized image data to
+help identify areas where discrimination may be occurring. Ultimately, our goal
+is to provide insights into whether discrimination exists in the loaning and
+housing process, and if so, in which areas it is more prevalent.
 
 ## Folders
 -------------------------------------------------------------------------------
@@ -59,21 +64,22 @@ Description: File find relation between census tract/area and loan amount.
 
 num_loan_bos.ipynb
 
-Description: File finding the relation of races and ages on the loan
-reject/accept  rate. This file shows the distribution of population proportion
-of race and ages, and compare the population proportion with accept/denial rate.
-This file focusing on MSDA dataset and used data from neighborhood.ipynb.
+Description: This file analyzes the relationship between race, age, and loan
+acceptance/rejection rates. It compares population proportions of different
+races and ages to their acceptance/denial rates using data from the MSDA dataset
+and the neighborhood.ipynb.
 
 ##Dataset
 -------------------------------------------------------------------------------
 msamd_14454.csv
 
-Description: MSDA dataset. Dataset provided by Home Mortgage Disclosure Act.
+Description: Home Mortgage Disclosure Act  (MSDA) dataset. Dataset provided by
+the Federal Financial Institutions Examination Council FFIEC.
 Latest data can be downloaded from :https://ffiec.cfpb.gov/data-browser/data
 
 fy2022pa-4.csv
 
 Description: Property Assessment dataset from Analyze Boston. Gives property, or
 parcel, ownership together with value information, which ensures fair assessment
-of Boston taxable and non-taxable property. Latest data can be found at:
-https://data.boston.gov/dataset/property-assessment
+of Boston taxable and non-taxable property.
+Latest data can be found at: https://data.boston.gov/dataset/property-assessment
