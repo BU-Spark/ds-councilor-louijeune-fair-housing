@@ -64,10 +64,15 @@ Description: File find relation between census tract/area and loan amount.
 
 num_loan_bos.ipynb
 
-Description: This file analyzes the relationship between race, age, and loan
+Description: This file map the average loan amount for each census tract. in addition,
+it analyzes the relationship between race, age, and loan
 acceptance/rejection rates. It compares population proportions of different
 races and ages to their acceptance/denial rates using data from the MSDA dataset
 and the neighborhood.ipynb.
+
+msda_racedis.ipynb
+
+Description: This file analyzes and map the loan amount for each census tract for each race.
 
 ##Dataset
 -------------------------------------------------------------------------------
